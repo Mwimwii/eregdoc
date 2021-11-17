@@ -14,8 +14,6 @@ The user can also view their information by clicking on 'Profile'. A dropdown me
 
 The Officer dashboard presents users with trays represented as cards akin to trays seen in the real world. The trays are aligned in the order of which the letters are being process.
 
-![Officer Dashboard](broken-reference)
-
 {% content-ref url="in-tray/" %}
 [in-tray](in-tray/)
 {% endcontent-ref %}

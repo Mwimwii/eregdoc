@@ -32,8 +32,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [for-officers](guides/for-officers/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/users/advanced-permissions.md" %}
-[advanced-permissions.md](fundamentals/users/advanced-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
@@ -44,20 +44,20 @@ Follow our handy guides to get started on the basics as quickly as possible:
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
-{% content-ref url="fundamentals/letters.md" %}
-[letters.md](fundamentals/letters.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/users/" %}
-[users](fundamentals/users/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/tasks/" %}
-[tasks](fundamentals/tasks/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% hint style="info" %}
