@@ -22,15 +22,6 @@
   * [Working On Tray](guides/for-officers/working-on-tray.md)
   * [Completed Tray](guides/for-officers/completed-tray.md)
 
-## Fundamentals
-
-* [Letters](fundamentals/letters.md)
-* [Users](fundamentals/users/README.md)
-  * [Creating your first user](fundamentals/users/creating-your-first-user.md)
-  * [Advanced permissions](fundamentals/users/advanced-permissions.md)
-* [Tasks](fundamentals/tasks/README.md)
-  * [Creating your first task](fundamentals/tasks/creating-your-first-task.md)
-
 ## Use Cases
 
 * [For Support](use-cases/for-support/README.md)
