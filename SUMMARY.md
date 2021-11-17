@@ -21,8 +21,3 @@
         * [Responding to an item](guides/for-officers/in-tray/viewing-items/taking-actions-on-an-item/responding-to-an-item.md)
   * [Working On Tray](guides/for-officers/working-on-tray.md)
   * [Completed Tray](guides/for-officers/completed-tray.md)
-
-## Use Cases
-
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
